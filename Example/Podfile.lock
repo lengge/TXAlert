@@ -1,0 +1,16 @@
+PODS:
+  - TXAlert (0.1.0)
+
+DEPENDENCIES:
+  - TXAlert (from `../`)
+
+EXTERNAL SOURCES:
+  TXAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TXAlert: 85ea3ccf78b817282d55414577003af609dfa4bd
+
+PODFILE CHECKSUM: 10ec7e68ee9ade051afb32cc94c3b0b285b21467
+
+COCOAPODS: 1.5.3

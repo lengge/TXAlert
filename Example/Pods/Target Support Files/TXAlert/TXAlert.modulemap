@@ -1,0 +1,6 @@
+framework module TXAlert {
+  umbrella header "TXAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

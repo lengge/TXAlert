@@ -1,0 +1,6 @@
+framework module Pods_TXAlert_Example {
+  umbrella header "Pods-TXAlert_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
