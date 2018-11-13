@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TXAlert_Example' do
+  pod 'TXAlert', :path => '../'
+
+  target 'TXAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
